@@ -1,4 +1,4 @@
-baseURL = "http://go-colly.org/"
+baseURL = "https://mizzunet.eu.org/gocolly/"
 languageCode = "en-us"
 title = "Colly"
 theme = "colly"
